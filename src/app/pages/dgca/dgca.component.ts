@@ -311,14 +311,14 @@ resources = [
     type: 'PDF',
     size: '2.4 MB',
     icon: '📄',
-    path: 'assets/pdfs/Airplane Flying Handbook.pdf'
+    path: 'assets/data/Airplane Flying Handbook.pdf'
   },
   {
     title: 'Aircraft Systems',
     type: 'PDF',
     size: '8.1 MB',
     icon: '✈️',
-    path: 'assets/pdfs/Aircraft systems.pdf'
+    path: 'assets/data/Aircraft systems.pdf'
   },
 {
   title: 'Air Regulations CAR Series',
@@ -334,7 +334,7 @@ resources = [
   icon: '🧭',
   paths: [
     'assets/pdfs/Navigation  (2).pdf',
-    'assets/pdfs/Flight instruments.pdf'
+    'assets/images/Flight instruments.pdf'
   ]
 },
   {
@@ -343,7 +343,7 @@ resources = [
     size: '4.2 MB',
     icon: '🌤️',
      paths: [
-    'assets/pdfs/Aviation weather services.pdf',
+    'assets/images/Aviation weather services.pdf',
     'assets/pdfs/Weather Theory.pdf'
   ]
   },
